@@ -1,6 +1,12 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+=========================
+preprocessing data
+=========================
+"""
+
 import os
 import re
 import xlwt
