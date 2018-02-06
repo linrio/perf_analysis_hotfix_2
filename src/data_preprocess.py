@@ -3,7 +3,7 @@
 
 """
 =================================
-preprocessing data. Lingfeng Lin
+preprocessing data. Lingfeng Lin.
 =================================
 """
 
